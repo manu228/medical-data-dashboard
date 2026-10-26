@@ -93,8 +93,4 @@ medical-data-dashboard/
 
 **Disclaimer:** Educational exploration only. Not for medical diagnosis or treatment.
 
-## Suggested portfolio description
-
-> Built CellScope, an interactive Python/Streamlit dashboard exploring 569 real breast-mass image samples using Pandas, Plotly, and scikit-learn; implemented diagnostic-label filtering, exploratory feature visualizations, group statistics, and CSV export, with documented data limitations.
-
-Use this description **after reviewing the code and running the project yourself** so you can explain it confidently.
+tly.
