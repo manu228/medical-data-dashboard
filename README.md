@@ -92,5 +92,3 @@ medical-data-dashboard/
 - Next: add documented data quality checks and more interpretable feature comparisons, then investigate robust model validation as a distinct research project.
 
 **Disclaimer:** Educational exploration only. Not for medical diagnosis or treatment.
-
-tly.
